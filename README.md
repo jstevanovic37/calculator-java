@@ -4,6 +4,8 @@ Takodje, primecujem da ima nekoliko praznih linija koda,
 komentari i 
 nekoliko viticastih zagrada koje nisu potrebne i mogu se izbaciti.
 LOC(lines of code) predstavlja linije koda koje se izvrsavaju. LOC za fajl Calculator.java je 102 linije koda.
+LOC za fajl Start.java 14.
+Staticka analiza obavlja se pomocu lint alata SonarLint koji je deo iz softverske porodice SonarQube.
 Takodje, metode get i set treba da se bolje definisu.
 Analiza koda: 18 linija koda nije ispravna, 
 duplirani uslovi u if bloku 24 linija koda,
